@@ -1,5 +1,1 @@
-#Teaching
-
-##Naming
-
-[year].[semester]-[class]-[subject]
+# AB2.1
